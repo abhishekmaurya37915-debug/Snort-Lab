@@ -12,7 +12,7 @@ Important Note : If any problem occur while installation search it on YouTube ra
  Open Terminal and run some commands
 
 # sudo apt update.
-![Uploading 1.png…]()
+<img width="561" height="230" alt="image" src="https://github.com/user-attachments/assets/21f6fcfc-f27b-48ca-b286-234321693146" />
 
 
 # sudo apt upgrade.
@@ -25,11 +25,20 @@ Important Note : If any problem occur while installation search it on YouTube ra
 # (Sudo apt-get install snort)
 
 <img width="530" height="266" alt="image" src="https://github.com/user-attachments/assets/04e9d904-653a-4d03-b50c-2f6c2e755598" />
+
 # Check snort is install or not by checking version.
 
 # (sbort -V)
-# ![Uploading image.png…]()
+
+<img width="550" height="210" alt="image" src="https://github.com/user-attachments/assets/7142883e-068c-4199-b85c-26521c3f4829" />
+
+
 # Fast check ip address (ipconfig)
+
 For me it is eno1 and ip address is 192.168.211.128
 
-![Uploading image.png…]()
+<img width="530" height="266" alt="image" src="https://github.com/user-attachments/assets/52a2a1e3-fc61-4096-88a1-1fbbcafdd3b8" />
+
+
+
+
